@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Bao Retro Camera",
+  "description": "A nostalgic instant camera experience powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
